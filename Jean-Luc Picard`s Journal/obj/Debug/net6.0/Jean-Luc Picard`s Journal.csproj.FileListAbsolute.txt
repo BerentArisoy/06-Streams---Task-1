@@ -1,0 +1,15 @@
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\bin\Debug\net6.0\Jean-Luc Picard`s Journal.exe
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\bin\Debug\net6.0\Jean-Luc Picard`s Journal.deps.json
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\bin\Debug\net6.0\Jean-Luc Picard`s Journal.runtimeconfig.json
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\bin\Debug\net6.0\Jean-Luc Picard`s Journal.dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\bin\Debug\net6.0\Jean-Luc Picard`s Journal.pdb
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.AssemblyInfoInputs.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.AssemblyInfo.cs
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\refint\Jean-Luc Picard`s Journal.dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.pdb
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\Jean-Luc Picard`s Journal.genruntimeconfig.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\Jean-Luc Picard`s Journal\Jean-Luc Picard`s Journal\obj\Debug\net6.0\ref\Jean-Luc Picard`s Journal.dll
